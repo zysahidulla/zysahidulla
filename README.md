@@ -31,21 +31,12 @@ I don’t just write code—I design experiences where creativity and engineerin
 
 
 ### 🛠️ Tools of the Trade
-
-
-
 | Category | Technologies |
-
 | :--- | :--- |
-
 | **Languages** | JavaScript (ES6+), TypeScript, Python, Java, C++, PHP, SQL |
-
 | **Frontend** | React, Next.js, Vue.js, Tailwind CSS, HTML5, CSS3 |
-
 | **Backend** | Node.js, MongoDB, PostgreSQL |
-
 | **Design** | Figma, Adobe Photoshop |
-
 | **Tools** | Git, VS Code, Prompt Engineering |
 
 
