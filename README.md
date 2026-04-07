@@ -115,7 +115,7 @@ An immersive clock featuring a living background that mirrors real-world time cy
 
 - **Location:** Manila, Philippines
 
-- **Portfolio:** [https://zysahidulla.github.io/]
+- **Portfolio:** https://zysahidulla.github.io/
 
 
 
