@@ -1,122 +1,77 @@
-# Hi there, I'm Zy Sahidulla! 👋 
-
-
+# Hi there, I'm Zy Sahidulla! 👋
 
 ### Web Developer | Computer Engineer | UI/UX & Prompt Engineer
 
-
-
-I don’t just write code—I design experiences where creativity and engineering collide. Based in Manila, Philippines, I am a BS Computer Engineering student at **De La Salle University**, passionate about bridging the gap between robust system architecture and human-centered design.
-
-
+I design and build digital experiences that blend engineering precision with thoughtful user-centered design. Based in Manila, Philippines, I am a BS Computer Engineering student at De La Salle University, with a strong interest in web development, interactive systems, and creative technology.
 
 ---
-
-
 
 ### 🚀 Quick Overview
 
-* 🔭 **Currently:** Exploring the intersection of AI and human-centered design.
-
-* 🎓 **Education:** Pursuing BS in Computer Engineering at DLSU.
-
-* 🏛️ **Leadership:** Serving as a Batch Legislator in the DLSU Student Government.
-
-* 💡 **Philosophy:** "The best technology is invisible—it just works."
-
-
+- 🔭 Currently focused on building responsive web applications and interactive interfaces.
+- 🎓 Education: BS in Computer Engineering at De La Salle University.
+- 🏛️ Leadership: Batch Legislator at the De La Salle University Student Government.
+- 💡 Philosophy: “The best technology is invisible—it just works.”
 
 ---
 
-
-
 ### 🛠️ Tools of the Trade
+
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | JavaScript (ES6+), TypeScript, Python, Java, C++, PHP, SQL |
-| **Frontend** | React, Next.js, Vue.js, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, MongoDB, PostgreSQL |
-| **Design** | Figma, Adobe Photoshop |
+| **Frontend** | React, Vite, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, PHP, MySQL |
+| **Design** | Figma, Adobe Photoshop, UI/UX Design |
 | **Tools** | Git, VS Code, Prompt Engineering |
 
-
-
 ---
-
-
 
 ### 🏆 Featured Projects
 
+#### 🐾 [Adoption Pawtal](https://github.com/zysahidulla/adoption-pawtal)
 
+A PHP/MySQL-powered pet adoption platform designed to digitize shelter operations by centralizing pet records, medical tracking, and adoption workflows.
 
-#### 🐾 [The Adoption Pawtal](https://github.com/yourusername/adoption-pawtal)
+#### 🧠 [LOGOS: Logic Simulator](https://github.com/zysahidulla/logos-sim)
 
-A PHP/MySQL-powered web platform digitizing Philippine animal shelter operations. Centralizes pet records, medical tracking, and adoption workflows.
+A web-based logic circuit simulator that allows users to design and visualize digital logic components and systems.
 
+#### 💰 [A.R.T Money Changer Tracker](https://github.com/zysahidulla/currencytracker)
 
+A real-time financial dashboard for tracking USD, JPY, and PHP conversions with interactive insights and live market data.
 
-#### ☀️ [Weather Analytics Dashboard](https://github.com/yourusername/weather-dashboard)
+#### 🌐 [My Portfolio](https://zysahidulla.github.io)
 
-A responsive dashboard visualizing real-time weather conditions and environmental trends for Philippine cities using interactive maps and charts.
-
-
-
-#### 💰 [A.R.T Money Changer Tracker](https://github.com/yourusername/money-changer)
-
-A real-time financial dashboard for currency conversion (USD, JPY, PHP) featuring live updates and historical data visualization.
-
-
-
-#### ⏰ [Dynamic Digital Clock](https://github.com/yourusername/digital-clock)
-
-An immersive clock featuring a living background that mirrors real-world time cycles (sunrise, midday, and starry nights).
-
-
+A personal portfolio website showcasing projects, skills, experience, and design work through a modern and responsive interface.
 
 ---
-
-
 
 ### 📈 Proficiency
 
-- **Tailwind CSS / VS Code:** 95%
-
-- **React / Figma / Git:** 90%
-
+- **React / Tailwind CSS / VS Code:** 95%
+- **Git / Figma / UI Design:** 90%
 - **JavaScript / TypeScript:** 88%
-
 - **Node.js / Python:** 80%
 
-
-
 ---
-
-
 
 ### 🏅 Achievements & Leadership
 
 - **Class Salutatorian (2023):** Ranked Top 2 in the batch.
-
-- **Journalism Excellence:** Served as Managing Editor with outstanding contributions.
-
-- **Batch Legislator (DLSU):** Advocating for student welfare and academic initiatives.
-
-- **Best in Computer Subject:** A lifelong passion for tech recognized since grade school.
-
-
+- **Journalism Excellence:** Served as Managing Editor with notable contributions.
+- **Batch Legislator, DLSU Student Government:** Advocated for student welfare and academic initiatives.
+- **Best in Computer Subject:** Recognized for early academic excellence in technology.
+- **With Honors / With High Honors:** Consistent academic distinction throughout school years.
 
 ---
 
+### 📫 Let's Connect
 
-
-### 📫 Let's Connect!
-
-- **Email:** [zysahidulla@gmail.com](mailto:zysahidulla@gmail.com)
-
+- **Email:** zysahidulla@gmail.com
 - **Location:** Manila, Philippines
+- **Portfolio:** https://zysahidulla.github.io
+- **GitHub:** https://github.com/zysahidulla
+- **LinkedIn:** https://www.linkedin.com/in/zysahidulla/
 
-- **Portfolio:** https://zysahidulla.github.io/
-
-
-
-*"Building robust, scalable applications with clean architecture and pixel-perfect interfaces."*
+> “Building reliable digital experiences that merge engineering, design, and human-centered thinking.”
