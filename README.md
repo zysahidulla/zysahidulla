@@ -1,77 +1,62 @@
-# Hi there, I'm Zy Sahidulla! 👋
+# Zy Sahidulla
 
-### Web Developer | Computer Engineer | UI/UX & Prompt Engineer
-
-I design and build digital experiences that blend engineering precision with thoughtful user-centered design. Based in Manila, Philippines, I am a BS Computer Engineering student at De La Salle University, with a strong interest in web development, interactive systems, and creative technology.
-
----
-
-### 🚀 Quick Overview
-
-- 🔭 Currently focused on building responsive web applications and interactive interfaces.
-- 🎓 Education: BS in Computer Engineering at De La Salle University.
-- 🏛️ Leadership: Batch Legislator at the De La Salle University Student Government.
-- 💡 Philosophy: “The best technology is invisible—it just works.”
+**Computer Engineering Student | Full-Stack Developer & UI/UX Designer**  
+Manila, Philippines • [zysahidulla@gmail.com](mailto:zysahidulla@gmail.com) • [LinkedIn](https://www.linkedin.com/in/zysahidulla/) • [Portfolio](https://zysahidulla.github.io) • [GitHub](https://github.com/zysahidulla)
 
 ---
 
-### 🛠️ Tools of the Trade
+### Professional Summary
 
-| Category | Technologies |
+I engineer scalable web applications and interactive digital systems that balance low-level systems precision with intuitive, human-centered UI/UX design. Currently pursuing a B.S. in Computer Engineering at De La Salle University, where I also serve as a Student Government Batch Legislator, leading policy and academic welfare initiatives.
+
+---
+
+### Technical Proficiencies
+
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | JavaScript (ES6+), TypeScript, Python, Java, C++, PHP, SQL |
-| **Frontend** | React, Vite, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, PHP, MySQL |
-| **Design** | Figma, Adobe Photoshop, UI/UX Design |
-| **Tools** | Git, VS Code, Prompt Engineering |
+| **Languages** | TypeScript, JavaScript (ES6+), Python, C++, Java, PHP, SQL |
+| **Frontend** | React, Vite, Tailwind CSS, HTML5, CSS3/SASS |
+| **Backend & Databases** | Node.js, Express, PHP, MySQL, RESTful APIs |
+| **Design & Prototyping** | Figma, Adobe Photoshop, Wireframing, Design Systems |
+| **Developer Tools** | Git, GitHub, VS Code, Linux/Unix Shell, Prompt Engineering |
 
 ---
 
-### 🏆 Featured Projects
+### Featured Projects
 
-#### 🐾 [Adoption Pawtal](https://github.com/zysahidulla/adoption-pawtal)
+#### [Adoption Pawtal](https://github.com/zysahidulla/adoption-pawtal)
+*Pet Shelter Operations & Adoption Management System*
+- **Stack:** PHP, MySQL, Tailwind CSS, JavaScript
+- Designed a centralized management application digitizing intake records, medical histories, and adoption approval workflows for animal shelters.
+- Implemented role-based access control (RBAC) and dynamic database querying to streamline shelter operations.
 
-A PHP/MySQL-powered pet adoption platform designed to digitize shelter operations by centralizing pet records, medical tracking, and adoption workflows.
+#### [LOGOS: Logic Circuit Simulator](https://github.com/zysahidulla/logos-sim)
+*Interactive Digital Systems Simulator*
+- **Stack:** React, TypeScript, HTML5 Canvas / SVG
+- Built an in-browser logic circuit simulator allowing real-time schematic capture, gate evaluation, and signal path visualization.
+- Optimized canvas rendering performance to ensure low-latency updates during complex multi-gate simulations.
 
-#### 🧠 [LOGOS: Logic Simulator](https://github.com/zysahidulla/logos-sim)
-
-A web-based logic circuit simulator that allows users to design and visualize digital logic components and systems.
-
-#### 💰 [A.R.T Money Changer Tracker](https://github.com/zysahidulla/currencytracker)
-
-A real-time financial dashboard for tracking USD, JPY, and PHP conversions with interactive insights and live market data.
-
-#### 🌐 [My Portfolio](https://zysahidulla.github.io)
-
-A personal portfolio website showcasing projects, skills, experience, and design work through a modern and responsive interface.
-
----
-
-### 📈 Proficiency
-
-- **React / Tailwind CSS / VS Code:** 95%
-- **Git / Figma / UI Design:** 90%
-- **JavaScript / TypeScript:** 88%
-- **Node.js / Python:** 80%
+#### [A.R.T. Currency Tracker](https://github.com/zysahidulla/currencytracker)
+*Real-Time Foreign Exchange Analytics Dashboard*
+- **Stack:** JavaScript, REST APIs, Tailwind CSS, Chart.js
+- Developed a financial tracking tool that queries real-time FX endpoints for USD, JPY, and PHP market fluctuations.
+- Integrated interactive charting to render historical conversion trends and price alerts.
 
 ---
 
-### 🏅 Achievements & Leadership
+### Leadership & Honors
 
-- **Class Salutatorian (2023):** Ranked Top 2 in the batch.
-- **Journalism Excellence:** Served as Managing Editor with notable contributions.
-- **Batch Legislator, DLSU Student Government:** Advocated for student welfare and academic initiatives.
-- **Best in Computer Subject:** Recognized for early academic excellence in technology.
-- **With Honors / With High Honors:** Consistent academic distinction throughout school years.
+- **Batch Legislator** | De La Salle University Student Government (USG)  
+  Elected representative responsible for sponsoring academic resolutions, representing student constituent interests, and voting on university-wide student policies.
+- **Class Salutatorian** | Class of 2023 (Ranked 2nd in graduating cohort)
+- **Editor-in-Chief / Managing Editor** | Campus Journalism  
+  Directed editorial teams, publication layout, and investigative coverage for regional student press circuits.
 
 ---
 
-### 📫 Let's Connect
+### Connect
 
-- **Email:** zysahidulla@gmail.com
-- **Location:** Manila, Philippines
-- **Portfolio:** https://zysahidulla.github.io
-- **GitHub:** https://github.com/zysahidulla
-- **LinkedIn:** https://www.linkedin.com/in/zysahidulla/
-
-> “Building reliable digital experiences that merge engineering, design, and human-centered thinking.”
+- **Portfolio:** [zysahidulla.github.io](https://zysahidulla.github.io)
+- **LinkedIn:** [linkedin.com/in/zysahidulla](https://www.linkedin.com/in/zysahidulla/)
+- **Email:** [zysahidulla@gmail.com](mailto:zysahidulla@gmail.com)
